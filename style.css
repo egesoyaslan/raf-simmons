@@ -40,3 +40,18 @@ body {
     font-weight: bolder;
     font-size: 20vh;
 }
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.bg {
+    height: 200vh;
+    width: 100%;
+    opacity: 0.3;
+    object-fit: cover;
+}
+
+.red {
+}

@@ -41,16 +41,13 @@ body {
     font-size: 20vh;
 }
 
+.szn a:hover {
+    color: #c6c6c6;
+}
+
 a {
     text-decoration: none;
     color: whitesmoke;
-}
-
-.bg {
-    height: 200vh;
-    width: 100%;
-    opacity: 0.3;
-    object-fit: cover;
 }
 
 .red {

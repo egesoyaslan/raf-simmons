@@ -45,6 +45,10 @@ body {
     color: #c6c6c6;
 }
 
+.title2 a:hover {
+    color: #c6c6c6;
+}
+
 a {
     text-decoration: none;
     color: whitesmoke;
@@ -93,4 +97,13 @@ a {
     gap: 4em;
     background-color: white;
     padding-top: 4em;
+}
+
+.arrow {
+    height: 3vh;
+    width: auto;
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }

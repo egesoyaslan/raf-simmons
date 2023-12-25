@@ -95,15 +95,15 @@ a {
     flex-wrap: wrap;
     justify-content: center;
     gap: 4em;
-    background-color: white;
+    background-color: whitesmoke;
     padding-top: 4em;
 }
 
 .arrow {
-    height: 3vh;
-    width: auto;
+    font-weight: bolder;
+    font-size: 5vh;
     position: absolute;
-    top: 95%;
+    bottom: 0;
     left: 50%;
     transform: translate(-50%, -50%);
 }

@@ -14,6 +14,7 @@ arrow.addEventListener(`mouseover`, (e) => {
 
     if (target.className === `arrow`) {
         target.style.color = `gainsboro`;
+        target.style.cursor = 'pointer';
     }
 });
 
@@ -22,5 +23,6 @@ arrow.addEventListener(`mouseout`, (e) => {
 
     if (target.className === `arrow`) {
         target.style.color = `whitesmoke`;
+        target.style.cursor = 'default';
     }
 });

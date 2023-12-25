@@ -96,7 +96,7 @@ a {
     justify-content: center;
     gap: 4em;
     background-color: whitesmoke;
-    padding-top: 4em;
+    padding: 4em 0;
 }
 
 .arrow {
